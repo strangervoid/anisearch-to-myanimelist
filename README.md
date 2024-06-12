@@ -25,7 +25,7 @@ If you have issues please contact me on [Twitter](https://twitter.com/voidedmile
 - Head over to the MAL [import page](https://myanimelist.net/import.php), choose MyAnimeList Import as the type and enjoy
 
 
-## Change log:
+## Change log
 
 - added timetracking
 - added logfile in case of sus IDs
