@@ -19,6 +19,7 @@ If you have issues please contact me on [Twitter](https://twitter.com/voidedmile
 ## How to Use
 
 - Export your anisearch anime list: https://www.anisearch.de/usercp/list/anime/export
+- Edit the script with your MAL developer client ID and the name of your .json file
 - Make sure both the script and the .json file are in the same folder and then execute the script
 - Wait for a while for it to finish (depends on the size of your list, really)
 - Head over to the MAL [import page](https://myanimelist.net/import.php), choose MyAnimeList Import as the type and enjoy
