@@ -2,9 +2,9 @@
 # anisearch-to-myanimelist
 
 A little script that converts your exported .json file from anisearch.de and creates a suitable .xml file for import on myanimelist.com 🎌
+Source code's in german here and there but that's probably no biggy since it's for anisearch users who are mainly german anyways.
 
 If you have issues please contact me on [Twitter](https://twitter.com/voidedmile) or [Discord](https://discord.com/users/104627481767604224) 
-
 
 
 
@@ -25,10 +25,9 @@ If you have issues please contact me on [Twitter](https://twitter.com/voidedmile
 - Head over to the MAL [import page](https://myanimelist.net/import.php), choose MyAnimeList Import as the type and enjoy
 
 
-## Possible Improvements
+## Change log:
 
-Now, as you need the series_animedb_id from MAL there'll be an API call for each anime to figure it out. To speed up the script you could probably add multithreading or work through the API calls in a batch instead.
-
-For reference, my list that has 273 anime took around 5 minutes to complete. That's around 1 second per anime. I personally think that's okay since I didn't want to hit any rate limits with the MAL API.
+- added timetracking
+- added asynchronous handling of the API calls (cuts down the time needed by a lot, hitting the MAL API rate limit's apparently hard lol)
 
 Feel free to contribute and have a wonderful day! c:
