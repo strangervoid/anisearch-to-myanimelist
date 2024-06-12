@@ -28,6 +28,7 @@ If you have issues please contact me on [Twitter](https://twitter.com/voidedmile
 ## Change log:
 
 - added timetracking
-- added asynchronous handling of the API calls (cuts down the time needed by a lot, hitting the MAL API rate limit's apparently hard lol)
+- added logfile in case of sus IDs
+- added asynchronous handling of the API calls (cuts down the execution time by a lot. apparently, hitting the MAL API rate-limit's hard lol)
 
 Feel free to contribute and have a wonderful day! c:
