@@ -27,14 +27,14 @@ If you have issues please contact me on [Twitter](https://twitter.com/voidedmile
 
 ## Change log
 
-- added timetracking
+- added a timer
+- added asynchronous handling of the API requests which cuts down the execution time by a lot (apparently, hitting the MAL API rate-limit's hard lol)
 - added logfile in case of sus IDs
-- added asynchronous handling of the API calls (cuts down the execution time by a lot. apparently, hitting the MAL API rate-limit's hard lol)
 
 
 ## Possible Improvements
 
-adding manga list support (probably just need to change status mapping so it fits + some testing, would implement if there's demand)
+adding manga list support (would probably just need to change status mapping so it fits + some testing, would implement if there's demand)
 
 
 Feel free to contribute and have a wonderful day! c:
