@@ -4,7 +4,7 @@
 A little script that converts your exported .json file from anisearch.de and creates a suitable .xml file for import on myanimelist.com 🎌
 Source code's in german here and there but that's probably no biggy since it's for anisearch users who are mainly german anyways.
 
-If you have issues please contact me on [Twitter](https://twitter.com/voidedmile) or [Discord](https://discord.com/users/104627481767604224).
+If you have issues please contact me on [Twitter](https://twitter.com/voidedmile) or [Discord](https://discord.com/users/104627481767604224).  
 Or if you don't want to bother installing Python and stuff. Running the script takes like 5 seconds just hit me up like another dude did before.
 
 
