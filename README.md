@@ -33,9 +33,8 @@ Or if you don't want to bother installing Python and stuff. Running the script t
 - added logfile in case of sus IDs
 
 
-## Possible Improvements
+## Additional notes
 
-adding manga list support (would probably just need to change status mapping so it fits + some testing, would implement if there's demand)
-
+I have done some testing and it seems like manga lists can't be imported to MAL.
 
 Feel free to contribute and have a wonderful day! c:
